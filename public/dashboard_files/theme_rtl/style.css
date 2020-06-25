@@ -1,0 +1,66 @@
+.btn.green:not(.btn-outline) {
+    border-radius: 5px !important;
+  }
+
+  .table .btn {
+    border-radius: 5px !important;
+  }
+  .page-content-white .page-content .page-bar {
+    border: 1px solid #e7ecf1;
+  }
+
+  .page-content-white .page-title {
+    margin: 15px 0;
+  }
+
+  .swal2-popup {
+    display: none;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    width: 32em;
+    max-width: 100%;
+    padding: 1.25em;
+    border-radius: 0.3125em;
+    background: #fff;
+    font-family: inherit;
+    font-size: 1rem;
+    box-sizing: border-box;
+    border-radius: 26px !important;
+ }
+ .swal2-cancel{
+    margin: 14px;
+    border-radius: 6px !important;
+    width: 100px;
+ }
+ .swal2-confirm{
+    margin: 14px;
+    border-radius: 6px !important;
+    width: 100px;
+ }
+
+ .portlet.light.bordered {
+    border: 2px solid #32c5d2!important;
+}
+
+.portlet.light.bordered {
+  border-radius: 14px !important;
+}
+
+ .fileinput{
+         margin-right: 16px;
+    }
+    .my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #32c5d2;
+    border-radius: 10px !important;
+}
